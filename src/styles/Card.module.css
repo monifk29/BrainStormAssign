@@ -1,0 +1,12 @@
+.card{
+    border: 15px solid white;
+    color: whitesmoke;
+}
+
+.card h1 {
+    background-color: rgb(144,84,55);
+}
+
+/* .card h2 {
+    background-color: rgb(87,103,132);
+} */
